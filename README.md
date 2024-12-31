@@ -24,7 +24,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics]() at [Suez Canal University]().
+- :school: I am a `Marx Chipana` at [Faculty of Computers & Informatics]() at [Suez Canal University]().
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
