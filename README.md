@@ -1,193 +1,135 @@
-<h1 align="center">Hola , Yo soy Marx Alonso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
-</p>
+<div align="center">
 
-<br>
+<a href="https://developer-marx.netlify.app/">
+  <img src="./assets/hero.svg" width="100%" alt="Marx Alonso Chipana — Full-Stack Software Engineer · Lima, Perú · Disponible para trabajar" />
+</a>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=MarxAlonso&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-</p>
+<a href="https://developer-marx.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-developer--marx.netlify.app-0430cf?style=for-the-badge&logo=astro&logoColor=white&labelColor=101526" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/marx-alonso-chipana"><img src="https://img.shields.io/badge/LinkedIn-101526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzVlZDNmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+<a href="mailto:marxchip99@gmail.com"><img src="https://img.shields.io/badge/Gmail-101526?style=for-the-badge&logo=gmail&logoColor=5ed3ff" alt="Gmail" /></a>
+<a href="https://wa.me/51922061911"><img src="https://img.shields.io/badge/WhatsApp-101526?style=for-the-badge&logo=whatsapp&logoColor=5ed3ff" alt="WhatsApp" /></a>
+<a href="https://blogmarxingsoftware.blogspot.com/"><img src="https://img.shields.io/badge/Blog-101526?style=for-the-badge&logo=blogger&logoColor=5ed3ff" alt="Blog" /></a>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+</div>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br />
 
-<br><br>
+## `~/sobre-mi`
 
-- :school: I am a `Marx Chipana` at [Faculty of Computers & Informatics]() at [Suez Canal University]().
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://developer-marx.netlify.app/).
-<br>
+<img src="./assets/terminal.svg" width="100%" alt="Terminal ejecutando neofetch: Full-Stack Software Engineer en Lima, Perú. 3 años de experiencia y 7 webs en producción. Frontend: React, Next.js, Astro, Angular, Tailwind. Backend: NestJS, FastAPI, Spring Boot, Laravel, Node.js, Go. CMS: WordPress, Elementor, Divi. Datos: PostgreSQL, MySQL. Deploy: Netlify, Vercel, Cloudflare. Estado: disponible para trabajar." />
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Puedes comunicarte conmigo a traves de
-<p align="center">
-	<a href="mailto:marxchip99@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/MarxAlonso"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/51944603274"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+Soy **Ingeniero de Software Full-Stack** de Lima, Perú, con **3 años** construyendo aplicaciones web de punta a punta: del diseño de la interfaz al despliegue en producción.
 
+- **Frontend** interactivo y responsive con React, Next.js, Astro y Angular.
+- **Backend** escalable con NestJS, FastAPI, Spring Boot, Laravel, Node.js y Go.
+- **WordPress** profesional con Elementor, Divi y código a medida.
 
+## `~/stack`
 
-## 🛠️ My Skills
+<table>
+  <tr>
+    <th width="50%">Frameworks · Frontend</th>
+    <th width="50%">Frameworks · Backend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,angular,tailwind,bootstrap&theme=dark" alt="React, Next.js, Astro, Angular, Tailwind CSS, Bootstrap" /><br />
+      <sub>React · Next.js · Astro · Angular · Tailwind · Bootstrap</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nestjs,fastapi,spring,laravel,nodejs&theme=dark" alt="NestJS, FastAPI, Spring Boot, Laravel, Node.js" /><br />
+      <sub>NestJS · FastAPI · Spring Boot · Laravel · Node.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <th>CMS</th>
+    <th>Lenguajes</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /><br />
+      <sub>WordPress · Elementor · Divi · temas hijo · PHP a medida</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts,js,py,go,java,php,kotlin&theme=dark" alt="TypeScript, JavaScript, Python, Go, Java, PHP, Kotlin" /><br />
+      <sub>TypeScript · JavaScript · Python · Go · Java · PHP · Kotlin</sub>
+    </td>
+  </tr>
+  <tr>
+    <th>Bases de datos</th>
+    <th>Deploy y herramientas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL, MySQL" /><br />
+      <sub>PostgreSQL · MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,cloudflare,figma,postman&theme=dark" alt="Git, GitHub, Netlify, Vercel, Cloudflare, Figma, Postman" /><br />
+      <sub>Git · GitHub · Netlify · Vercel · Cloudflare · Figma · Postman</sub>
+    </td>
+  </tr>
+</table>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+## `~/proyectos` · webs en producción
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
+Sitios reales, en línea y en uso: los diseñé, programé y desplegué.
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+|     | Sitio | Qué es | Stack |
+| :-: | :---- | :----- | :---- |
+| 01 | [**Excelsius**](https://www.excelsius.biz/) | Sitio institucional de una empresa de software a medida y cursos en vivo: hero dibujado en canvas, blog y catálogo de cursos. | `Astro` `TypeScript` `Canvas` `SEO` |
+| 02 | [**BeSocial Marketing**](https://besocial-marketing.com/) | Web de una agencia de marketing digital con alcance en Perú, USA y LATAM. Multiidioma, tema claro/oscuro y blog. | `Astro` `i18n` `Blog` |
+| 03 | [**Ducas Import**](https://ducasimport.pe/) | Tienda online de skincare coreano: catálogo por marcas, carrito, cuentas de usuario y canal para mayoristas. | `Next.js` `React` `E-commerce` |
+| 04 | [**Operación Fortuna**](https://carlosampuero.pe/) | Plataforma de sorteos por suscripción con Carlos Ampuero: rangos, registro e inicio de sesión de usuarios. | `Next.js` `React` `Suscripciones` |
+| 05 | [**HomeHelp Salud**](https://homehelp.com.pe/) | Servicios de salud a domicilio en Lima: enfermería, cuidado de adulto mayor y alquiler de equipos médicos. | `Next.js` `React` `Blog` |
+| 06 | [**Carnicentro Marcelo**](https://carnicentromarcelo.com/) | Carnicería en Lima con delivery: catálogo de cortes de res y cerdo con precio por kilo, pedidos por WhatsApp y blog. | `Next.js` `React` `Catálogo` |
+| 07 | [**Chipana Real Estate**](https://www.chipanarealestate.com/) | Sitio bilingüe de un agente inmobiliario en Georgia, USA: listado de propiedades, blog y contacto por WhatsApp. | `Next.js` `i18n` `Inmobiliaria` |
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
+## `~/experiencia` · git log --graph
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
+```text
+marx@github:~/experiencia$ git log --graph --all
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
+* f4c07e1 (HEAD -> main) Programador Full Stack @ 3R Core Agencia de Marketing
+|         Jul 2026 — Actualidad · WordPress, Next.js, SEO técnico
+* 2b9d5a6 Desarrollador Web WordPress & Consultor de Optimización Digital @ Hispano Tesis Excelsius
+|         Feb 2026 — Actualidad · WordPress, Elementor, Astro, SEO · GEO · AEO
+* d6e18b3 Analista Programador @ Famat Consulting
+|         Nov 2025 — Actualidad · CRM a medida, integraciones, Termux
+* a3f91c2 Desarrollador Web Freelancer @ 3RCore Agencia de Marketing
+|         Mar 2025 — Ago 2025 · WordPress, Elementor, Divi · ▲ −40 % tiempo de carga
+* 7be04d8 Líder de Proyecto Web @ AventuraGym
+|         Ene 2025 — Feb 2025 · React, TypeScript, TailwindCSS
+* c21e7a5 Desarrollador Full-Stack @ IBSeguros (CorpIBGroup)
+|         Feb 2024 · Laravel, Vue.js, MySQL
+* 9d48f03 Líder de Migración @ IBContrata (CorpIBGroup)
+|         Ene 2024 · Laravel 10, API REST, JWT · ▲ −30 % tiempo de respuesta
+* 5ac6b19 Desarrollador de Escritorio @ Sistema de Gestión de Gimnasio
+|         Dic 2023 · Java, MySQL · ▲ −60 % tiempo de administración
+* e80b3f4 Desarrollador Frontend @ Proyectos Web Corporativos
+|         Jul 2023 — Nov 2023 · React, Next.js, TailwindCSS, Netlify
+* 1f7d2ae Desarrollador Web @ Proyectos con WordPress
+          Ene 2023 — Jun 2023 · WordPress, PHP, CSS, JavaScript
+```
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
+El detalle de cada etapa está en [mi portafolio](https://developer-marx.netlify.app/).
 
-<br> 
+## `~/stats`
 
----
+<div align="center">
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MarxAlonso&show_icons=true&rank_icon=github&locale=es&bg_color=05070f&title_color=5ed3ff&text_color=e9edf7&icon_color=2f7bff&border_color=1c2540" alt="Estadísticas de GitHub de MarxAlonso" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarxAlonso&layout=compact&langs_count=8&locale=es&bg_color=05070f&title_color=5ed3ff&text_color=e9edf7&border_color=1c2540" alt="Lenguajes más usados por MarxAlonso" />
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<img src="https://streak-stats.demolab.com/?user=MarxAlonso&locale=es&background=05070f&ring=5ed3ff&fire=2f7bff&currStreakLabel=5ed3ff&sideLabels=e9edf7&currStreakNum=e9edf7&sideNums=e9edf7&dates=8b93a8&border=1c2540&stroke=1c2540" alt="Racha de contribuciones de MarxAlonso" />
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarxAlonso/MarxAlonso/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MarxAlonso/MarxAlonso/output/github-contribution-grid-snake.svg" width="100%" alt="Snake recorriendo mi gráfico de contribuciones" />
+</picture>
 
-----	
+<img src="./assets/footer.svg" width="100%" alt="Gracias por la visita — construyamos algo juntos" />
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarxAlonso&theme=tokyonight_duo" alt="MarxAlonso" /></p>
+<img src="https://komarev.com/ghpvc/?username=MarxAlonso&label=visitas&color=2f7bff&style=flat-square" alt="Visitas al perfil" />
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarxAlonso&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarxAlonso&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+</div>
